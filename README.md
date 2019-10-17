@@ -18,3 +18,12 @@ Android SDK Version : 23 (Marshmallow 6.0)
  
 
 Project done during summer training at Orines Infotech PVT. 
+
+# My Original Contribution & Learnings
+
+Contribution =>
+Implemented a media player application video functionality, splash screen functionality and design.
+Designed the UI of the media player application,
+
+Major Learnings => 
+Learnt how to build media player application using Android SDK.
